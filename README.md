@@ -7,3 +7,6 @@ Executing requires a UNIX terminal and python3.
 
 Project 1: Completed October 9 2022
 Functionalities to create and drop databases and tables, use databases, select * from tables, alter tables, and exit the program.
+
+Project 2: Completed October 30 2022
+Functionalities to insert tuples into tables, select attributes from tables, alter tables, update and delete tuples.
