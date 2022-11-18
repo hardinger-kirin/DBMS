@@ -10,3 +10,6 @@ Functionalities to create and drop databases and tables, use databases, select *
 
 Project 2: Completed October 30 2022
 Functionalities to insert tuples into tables, select attributes from tables, alter tables, update and delete tuples.
+
+Project 3: Completed November 18 2022
+Functionalities to select all from multiple tables, inner joins, and left outer joins
