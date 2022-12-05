@@ -12,4 +12,7 @@ Project 2: Completed October 30 2022
 Functionalities to insert tuples into tables, select attributes from tables, alter tables, update and delete tuples.
 
 Project 3: Completed November 18 2022
-Functionalities to select all from multiple tables, inner joins, and left outer joins
+Functionalities to select all from multiple tables, inner joins, and left outer joins.
+
+Project 4: Completed December 5 2022
+Functionalities to begin transactions, lock files, and commit changes.
