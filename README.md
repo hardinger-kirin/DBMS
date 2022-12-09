@@ -16,3 +16,6 @@ Functionalities to select all from multiple tables, inner joins, and left outer 
 
 Project 4: Completed December 5 2022
 Functionalities to begin transactions, lock files, and commit changes.
+
+Project 5: Completed December 5 2022
+Functionalities to select count, avg, and max of a table attribute.
